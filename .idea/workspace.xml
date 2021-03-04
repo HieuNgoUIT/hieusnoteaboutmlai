@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef425c6-5147-42cb-aebf-19a8d5f2f7e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="d050c426-85c6-4dfb-8253-98b48e9ed8cb" />
+  <component name="ProjectId" id="1pCFIGwCWdSNn40WoKV5tEc9gLy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tiki_code" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef425c6-5147-42cb-aebf-19a8d5f2f7e8" name="Default Changelist" comment="" />
+      <created>1614679084402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614679084402</updated>
+      <workItem from="1614679085504" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1614680715756">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl/1920.0.1080.1920/0.27.1920.988@0.27.1920.988" timestamp="1614680715756" />
+  </component>
+</project>
